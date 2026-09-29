@@ -1,0 +1,8 @@
+{
+    "port": "8000",
+    "generate_endpoint": "/bark",
+    "detect_endpoint": "/isbark",
+    "ask_endpoint": "/askbark",
+    "barklike_endpoint": "/barklike",
+    "enable_landing_page": true
+}

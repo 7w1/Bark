@@ -1,0 +1,9 @@
+id: pet.plz.bark
+version: 1.1.0
+license: AGPL-3.0
+modules:
+  - bark
+main_class: Bark
+config: true
+extra_files:
+  - base-config.yaml
